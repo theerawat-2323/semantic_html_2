@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+details,
+figure,
+main,
+mark,
+time {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+summary,
+mark {
+    display: inline-block;
+    cursor: pointer;
+    background-color: #eee;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+}
+
+main {
+    background-color: #f9f9f9;
+}
+
+figure {
+    margin-top: 20px;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+}
+
+time {
+    color: #666;
+}
